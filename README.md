@@ -33,7 +33,7 @@ Data is updated inside RoomDatabase then Live Data will observe the Data from Ro
 Two button are there at the bottom of the UI for Turning off the automatic update of the UI and the other one is for
 latest weather info at any point of time and then Updated the UI using Live data.
 
-Important Note*
+Note*
 
 1. Since Workmanger is the Api which take care of Batter optimization more than any other api's while doing the background task for
 deferrable and guranteed work but still with some chinese mobile with some API Level , it doesn't executed when the app is killed
@@ -44,3 +44,5 @@ But The work manager worked when I provided the application with "autostart perm
 
 2. Since google has updated it's policy that location shouldn't be fetched from background for that we need to use the Foreground Services but here
 Foreground Services is not required so that's why it will fetch the updated location each time app is started and storted in the SharedPreference.
+
+3. Alert data is not getting from the Api that's why not showing.
