@@ -1,0 +1,4 @@
+include ':localDatabase'
+include ':MyApiServicesModule'
+include ':app'
+rootProject.name = "Chefling"

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chefling</string>
+    <string name="get_image">Get Image</string>
+    <string name="permission_string">Plese allow the permission, and restart the App</string>
+    <string name="no_of_times_data_updated">No of times data updated today</string>
+    <string name="last_updated_time">Last updated time</string>
+    <string name="current">Current</string>
+    <string name="hourly">Hourly</string>
+    <string name="daily">Daily</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="restart">Restart auto refresh</string>
+    <string name="turnoff">Turn of refresh</string>
+    <string name="uniqueWorkName">myUniqueWork</string>
+    <string name="refresh_ui">Refresh UI</string>
+    <string name="refreshCanceledToastmsg">Auto refresh canceled</string>
+    <string name="refreshRestartedToastmsg">Auto refresh restarted</string>
+</resources>

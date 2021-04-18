@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chefling.iml" filepath="$PROJECT_DIR$/.idea/modules/Chefling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyApiServicesModule/Chefling.MyApiServicesModule.iml" filepath="$PROJECT_DIR$/.idea/modules/MyApiServicesModule/Chefling.MyApiServicesModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Chefling.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Chefling.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/localDatabase/Chefling.localDatabase.iml" filepath="$PROJECT_DIR$/.idea/modules/localDatabase/Chefling.localDatabase.iml" />
+    </modules>
+  </component>
+</project>
