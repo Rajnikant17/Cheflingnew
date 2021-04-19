@@ -140,7 +140,7 @@
           android:layout_margin="10dp"
           />
       <androidx.recyclerview.widget.RecyclerView
-          android:id="@+id/rv_daily"
+          android:id="@+id/rv_hourly"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           />
@@ -154,7 +154,7 @@
           android:textColor="@color/purple_500"
           />
       <androidx.recyclerview.widget.RecyclerView
-          android:id="@+id/rv_hourly"
+          android:id="@+id/rv_daily"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           />

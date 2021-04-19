@@ -209,6 +209,7 @@ class HomeFragment : Fragment() {
         activityViewModel.dailyList.clear()
         activityViewModel.dailyList.addAll(entity.daily)
 
+
         if (hourlyAdapter == null) {
             hourlyAdapter = HourlyAdapter(requireActivity(), activityViewModel.hourlyList)
             fragmentHomeBinding.rvHourly.layoutManager = linearLayoutManagerHourly
